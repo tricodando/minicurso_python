@@ -4,8 +4,8 @@ Repositório responsável por armazenar  os laboratórios do Minicurso de Python
 
 # Conteúdo Programático
 
-Aula 01 - Preparando o ambiente Python&nbsp;
-Aula 02 - print("I Love Python!") e variáveis
+- Aula 01 - Preparando o ambiente Python
+- Aula 02 - print("I Love Python!") e variáveis
 Aula 03 - Interação no shell (input)
 Aula 04 - Fluxos com if, elif, else
 Aula 05 - Definindo uma função (IMC)
