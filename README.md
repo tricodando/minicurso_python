@@ -4,7 +4,7 @@ Repositório responsável por armazenar  os laboratórios do Minicurso de Python
 
 # Conteúdo Programático
 
-- Aula 01 - Preparando o ambiente Python [python](https://www.python.org/downloads/)
+- Aula 01 - Preparando o ambiente Python: [python](https://www.python.org/downloads/) | [atom](https://atom.io/)
 - Aula 02 - print("I Love Python!") e variáveis
 - Aula 03 - Interação no shell (input)
 - Aula 04 - Fluxos com if, elif, else
