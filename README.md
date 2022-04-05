@@ -12,5 +12,5 @@ Repositório responsável por armazenar  os laboratórios do Minicurso de Python
 - Aula 06 - Função recursiva (fibonacci): [lab](https://github.com/tricodando/minicurso_python/blob/main/fibonacci.py)
 - Aula 07 - Estruturas de dados: [lab](https://github.com/tricodando/minicurso_python/blob/main/figurinhas.py)
 - Aula 08 - Laço for (tabuada impressa): [lab](https://github.com/tricodando/minicurso_python/blob/main/tabuada_impressa.py)
-- Aula 09 - Laço while (+ interação no shell): 
+- Aula 09 - Laço while (+ interação no shell): [lab](https://github.com/tricodando/minicurso_python/blob/main/imc_interativo.py)
 - Aula 10 - Definindo classes (class Pessoa): 
