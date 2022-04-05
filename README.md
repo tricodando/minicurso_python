@@ -1,6 +1,6 @@
 # Minicurso de Python
 
-Repositório responsável por armazenar  os laboratórios do Minicurso de Python do canal do Youtube.
+Repositório dedicado a armazenar  as aulas do Minicurso de Python do canal do Youtube.
 
 # Conteúdo Programático
 
