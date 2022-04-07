@@ -13,4 +13,4 @@ Repositório dedicado a armazenar  as aulas do Minicurso de Python do [Canal do 
 - Aula 07 - Estruturas de dados: [lab 7](https://github.com/tricodando/minicurso_python/blob/main/figurinhas.py)
 - Aula 08 - Laço for (tabuada impressa): [lab 8](https://github.com/tricodando/minicurso_python/blob/main/tabuada_impressa.py)
 - Aula 09 - Laço while (+ interação no shell): [lab 9](https://github.com/tricodando/minicurso_python/blob/main/imc_interativo.py)
-- Aula 10 - Definindo classes (class Pessoa): [lab 10]
+- Aula 10 - Definindo classes (class Pessoa): [lab 10](https://github.com/tricodando/minicurso_python/blob/main/pessoa.py)
